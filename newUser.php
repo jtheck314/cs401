@@ -20,5 +20,12 @@ if(isset($_SESSION['form'])){
   <div>Phone Number: <input value="<?php echo $phone_preset; ?>" type="text" name="phone" id="phone"/></div>
   <input type="submit" value="Create Account"/>
  </form>
+<?php
+if(isset($_SESSION['errors'])){
+	foreach($_SESSION['errors'] as $error){
+		echo "<div>" . $error . "</div>";
+	}
+}
+?>
 </div>
 <?php require_once "footer.php"; ?>
