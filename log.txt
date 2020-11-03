@@ -1,0 +1,1092 @@
+1603929269 - INFO  --> made it here 
+1603929269 - INFO  --> adding a user [] 
+1603929269 - DEBUG --> getting a connection 
+1603929372 - INFO  --> made it here 
+1603929372 - INFO  --> adding a user [] 
+1603929372 - DEBUG --> getting a connection 
+1604094621 - INFO  --> adding a user [justinheck@u.boisestate.edu] 
+1604094621 - DEBUG --> getting a connection 
+1604102142 - DEBUG --> getting a connection 
+1604102142 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102325 - DEBUG --> getting a connection 
+1604102326 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102326 - DEBUG --> login failed 
+1604102344 - DEBUG --> getting a connection 
+1604102345 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102345 - DEBUG --> login failed 
+1604102415 - DEBUG --> getting a connection 
+1604102415 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102415 - DEBUG --> login failed 
+1604102535 - DEBUG --> getting a connection 
+1604102536 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102562 - DEBUG --> getting a connection 
+1604102562 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102589 - DEBUG --> getting a connection 
+1604102589 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102589 - DEBUG --> login failed 
+1604102777 - DEBUG --> getting a connection 
+1604102778 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102778 - DEBUG --> login failed 
+1604102795 - DEBUG --> getting a connection 
+1604102795 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102795 - DEBUG --> login failed 
+1604102841 - DEBUG --> getting a connection 
+1604102842 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102842 - DEBUG --> login authenticated 
+1604102895 - DEBUG --> getting a connection 
+1604102895 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604102895 - DEBUG --> login authenticated 
+1604102941 - DEBUG --> getting a connection 
+1604102943 - DEBUG --> Trying to log [; delete from user;] in 
+1604102943 - DEBUG --> login authenticated 
+1604102999 - DEBUG --> getting a connection 
+1604102999 - DEBUG --> Trying to log [; delete from user;] in 
+1604102999 - DEBUG --> login authenticated 
+1604103003 - DEBUG --> getting a connection 
+1604103003 - DEBUG --> Trying to log [] in 
+1604103003 - DEBUG --> login authenticated 
+1604103085 - DEBUG --> getting a connection 
+1604103085 - DEBUG --> Trying to log [; delete from user;] in 
+1604103085 - DEBUG --> login authenticated 
+1604103226 - DEBUG --> getting a connection 
+1604103226 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604103227 - DEBUG --> 1 
+1604103227 - DEBUG --> login authenticated 
+1604103249 - DEBUG --> getting a connection 
+1604103249 - DEBUG --> Trying to log [] in 
+1604103249 - DEBUG --> 1 
+1604103249 - DEBUG --> login authenticated 
+1604103292 - DEBUG --> getting a connection 
+1604103292 - DEBUG --> Trying to log [] in 
+1604103342 - DEBUG --> getting a connection 
+1604103343 - DEBUG --> Trying to log [] in 
+1604103343 - DEBUG --> 1 
+1604103343 - DEBUG --> login authenticated 
+1604103398 - DEBUG --> getting a connection 
+1604103399 - DEBUG --> Trying to log [] in 
+1604103399 - DEBUG --> 1 
+1604103399 - DEBUG --> login authenticated 
+1604103613 - DEBUG --> getting a connection 
+1604103614 - DEBUG --> Trying to log [] in 
+1604103614 - DEBUG -->  
+1604103614 - DEBUG --> login failed 
+1604103630 - DEBUG --> getting a connection 
+1604103630 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604103630 - DEBUG -->  
+1604103630 - DEBUG --> login failed 
+1604103972 - DEBUG --> getting a connection 
+1604103973 - DEBUG --> Trying to log [] in 
+1604103973 - DEBUG --> Array 
+1604103973 - DEBUG --> login failed 
+1604103998 - DEBUG --> getting a connection 
+1604103998 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604103998 - DEBUG --> Array 
+1604103998 - DEBUG --> login authenticated 
+1604104016 - DEBUG --> getting a connection 
+1604104016 - DEBUG --> Trying to log [] in 
+1604104016 - DEBUG --> Array 
+1604104016 - DEBUG --> login failed 
+1604104022 - DEBUG --> getting a connection 
+1604104023 - DEBUG --> Trying to log [; delete from user;] in 
+1604104023 - DEBUG --> Array 
+1604104023 - DEBUG --> login failed 
+1604104821 - DEBUG --> getting a connection 
+1604104822 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604104822 - DEBUG --> Array 
+1604104822 - DEBUG --> login authenticated 
+1604105004 - DEBUG --> getting a connection 
+1604105005 - DEBUG --> Trying to log [] in 
+1604105005 - DEBUG --> Array 
+1604105005 - DEBUG --> login failed 
+1604105021 - DEBUG --> getting a connection 
+1604105021 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604105021 - DEBUG --> Array 
+1604105021 - DEBUG --> login authenticated 
+1604105455 - DEBUG --> getting a connection 
+1604105456 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604105456 - DEBUG --> Array 
+1604105456 - DEBUG --> login authenticated 
+1604105471 - DEBUG --> getting a connection 
+1604105471 - DEBUG --> Trying to log [d] in 
+1604105472 - DEBUG --> Array 
+1604105472 - DEBUG --> login failed 
+1604255299 - DEBUG --> getting a connection 
+1604255300 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604255300 - DEBUG --> Array 
+1604255300 - DEBUG --> login authenticated 
+1604255316 - DEBUG --> getting a connection 
+1604255316 - DEBUG --> Trying to log [justinheck@u.boisestate.edu] in 
+1604255317 - DEBUG --> Array 
+1604255317 - DEBUG --> login authenticated 
+1604255407 - DEBUG --> getting a connection 
+1604255408 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604255408 - DEBUG --> Array 
+1604255408 - DEBUG --> login authenticated 
+1604255408 - DEBUG --> getting a connection 
+1604255409 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604255409 - DEBUG --> Array 
+1604255462 - DEBUG --> getting a connection 
+1604255463 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604255463 - DEBUG --> Array 
+1604255463 - DEBUG --> login authenticated 
+1604255463 - DEBUG --> getting a connection 
+1604255463 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604255463 - DEBUG --> Array 
+1604255481 - DEBUG --> getting a connection 
+1604255482 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604255482 - DEBUG --> Array 
+1604255482 - DEBUG --> login authenticated 
+1604255482 - DEBUG --> getting a connection 
+1604255482 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604255482 - DEBUG --> Array 
+1604259464 - DEBUG --> getting a connection 
+1604259464 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604259465 - DEBUG --> Array 
+1604259465 - DEBUG --> login authenticated 
+1604259465 - DEBUG --> getting a connection 
+1604259465 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604259465 - DEBUG --> Array 
+1604259534 - DEBUG --> getting a connection 
+1604259534 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604259535 - DEBUG --> Array 
+1604259535 - DEBUG --> login authenticated 
+1604259535 - DEBUG --> getting a connection 
+1604259535 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604259535 - DEBUG --> 1 
+1604259602 - DEBUG --> getting a connection 
+1604259603 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604259603 - DEBUG --> Array 
+1604259603 - DEBUG --> login authenticated 
+1604259603 - DEBUG --> getting a connection 
+1604259603 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604259603 - DEBUG --> Array 
+1604259626 - DEBUG --> getting a connection 
+1604259626 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604259627 - DEBUG --> Array 
+1604259627 - DEBUG --> login authenticated 
+1604259627 - DEBUG --> getting a connection 
+1604259627 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604259627 - DEBUG --> 1 
+1604260294 - DEBUG --> getting a connection 
+1604260294 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604260294 - DEBUG --> Array 
+1604260294 - DEBUG --> login authenticated 
+1604260294 - DEBUG --> getting a connection 
+1604260295 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604260295 - DEBUG --> 1 
+1604260632 - DEBUG --> getting a connection 
+1604260632 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604260632 - DEBUG --> Array 
+1604260632 - DEBUG --> login authenticated 
+1604260632 - DEBUG --> getting a connection 
+1604260633 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604260633 - DEBUG --> 1 
+1604262336 - DEBUG --> failed to make directory ./img/test/ 
+1604262382 - DEBUG --> failed to make directory ./img/test 
+1604263049 - DEBUG --> failed to make directory ./img/ 
+1604263067 - DEBUG --> failed to make directory ./img/ 
+1604263084 - DEBUG --> failed to make directory ./img/ 
+1604263112 - DEBUG --> failed to make directory ./img/ 
+1604263152 - DEBUG --> failed to make directory ./img/ 
+1604263180 - DEBUG --> failed to make directory ./img/ 
+1604263201 - DEBUG --> failed to make directory ./img/ 
+1604263207 - DEBUG --> failed to make directory ./img/ 
+1604263222 - DEBUG --> failed to make directory ./img/ 
+1604263261 - DEBUG --> failed to make directory ./img/ 
+1604263283 - DEBUG --> failed to make directory ./img/ 
+1604263288 - DEBUG --> failed to make directory ./img/ 
+1604263325 - DEBUG --> failed to make directory ./img/ 
+1604263391 - DEBUG --> failed to make directory ./img/ 
+1604263420 - DEBUG --> failed to make directory ./img/ 
+1604263440 - DEBUG --> failed to make directory ./img/ 
+1604263607 - DEBUG --> failed to make directory ./img/ 
+1604263748 - DEBUG --> failed to make directory ./img/ 
+1604263942 - DEBUG --> failed to make directory ./img/ 
+1604264183 - DEBUG --> failed to make directory ./img/ 
+1604264504 - DEBUG --> failed to make directory ./img/ 
+1604264616 - DEBUG --> failed to make directory ./img/ 
+1604264865 - DEBUG --> failed to make directory ./img/ 
+1604270196 - DEBUG --> failed to make directory ./img/ 
+1604270344 - DEBUG --> getting a connection 
+1604270344 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604270345 - DEBUG --> Array 
+1604270345 - DEBUG --> login authenticated 
+1604270345 - DEBUG --> getting a connection 
+1604270345 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604270345 - DEBUG --> 1 
+1604270374 - DEBUG --> scucessfully unzip the upload 
+1604270729 - DEBUG --> scucessfully unziped the upload 
+1604270899 - DEBUG --> failed to make directory ./img/Test 
+1604270899 - DEBUG --> scucessfully unziped the upload 
+1604271027 - DEBUG --> failed to make directory ./img/Test 
+1604271027 - DEBUG --> scucessfully unziped the upload 
+1604271124 - DEBUG --> failed to make directory ./img/Test 
+1604271124 - DEBUG --> scucessfully unziped the upload 
+1604271184 - DEBUG --> failed to make directory ./img/Test 
+1604271184 - DEBUG --> scucessfully unziped the upload 
+1604271225 - DEBUG --> failed to make directory ./img/Test 
+1604271225 - DEBUG --> scucessfully unziped the upload 
+1604271269 - DEBUG --> failed to make directory ./img/Test 
+1604271269 - DEBUG --> scucessfully unziped the upload 
+1604271362 - DEBUG --> failed to make directory ./img/Test 
+1604271362 - DEBUG --> scucessfully unziped the upload 
+1604271622 - DEBUG --> failed to make directory ./img/Test 
+1604271622 - DEBUG --> scucessfully unziped the upload 
+1604271765 - DEBUG --> failed to make directory ./img/Test 
+1604271765 - DEBUG --> scucessfully unziped the upload 
+1604271826 - DEBUG --> failed to make directory ./img/Test 
+1604271826 - DEBUG --> scucessfully unziped the upload 
+1604271909 - DEBUG --> failed to make directory ./img/Test 
+1604271909 - DEBUG --> scucessfully unziped the upload 
+1604271966 - DEBUG --> failed to make directory ./img/Test 
+1604271966 - DEBUG --> scucessfully unziped the upload 
+1604271990 - DEBUG --> failed to make directory ./img/Test 
+1604271990 - DEBUG --> scucessfully unziped the upload 
+1604271994 - DEBUG --> failed to make directory ./img/Test 
+1604271994 - DEBUG --> scucessfully unziped the upload 
+1604272107 - DEBUG --> failed to make directory ./img/Test 
+1604272107 - DEBUG --> scucessfully unziped the upload 
+1604272233 - DEBUG --> failed to make directory ./img/Test 
+1604272233 - DEBUG --> scucessfully unziped the upload 
+1604338976 - DEBUG --> getting a connection 
+1604338976 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604338976 - DEBUG --> Array 
+1604338976 - DEBUG --> login authenticated 
+1604338976 - DEBUG --> getting a connection 
+1604338976 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604338977 - DEBUG --> 1 
+1604339681 - DEBUG --> Made it to the uploadGallery.php 
+1604339681 - DEBUG --> Attempting to make ./img/Test 
+1604339681 - DEBUG --> scucessfully unziped the upload 
+1604339941 - DEBUG --> Made it to the uploadGallery.php 
+1604339941 - DEBUG --> Attempting to make ./img/Test 
+1604339941 - DEBUG --> failed to make directory ./img/Test 
+1604339941 - DEBUG --> scucessfully unziped the upload 
+1604340076 - DEBUG --> Made it to the uploadGallery.php 
+1604340076 - DEBUG --> Attempting to make ./img/Test 
+1604340076 - DEBUG --> failed to make directory ./img/Test 
+1604340076 - DEBUG --> scucessfully unziped the upload 
+1604340097 - DEBUG --> getting a connection 
+1604340097 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604340097 - DEBUG --> Array 
+1604340097 - DEBUG --> login authenticated 
+1604340097 - DEBUG --> getting a connection 
+1604340098 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604340098 - DEBUG --> 1 
+1604340131 - DEBUG --> Made it to the uploadGallery.php 
+1604340131 - DEBUG --> Attempting to make ./img/Test 
+1604340131 - DEBUG --> failed to make directory ./img/Test 
+1604340131 - DEBUG --> scucessfully unziped the upload 
+1604340153 - DEBUG --> Made it to the uploadGallery.php 
+1604340153 - DEBUG --> Attempting to make ./img/Test 
+1604340153 - DEBUG --> failed to make directory ./img/Test 
+1604340153 - DEBUG --> scucessfully unziped the upload 
+1604346595 - DEBUG --> getting a connection 
+1604346596 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604346596 - DEBUG --> Array 
+1604346596 - DEBUG --> login authenticated 
+1604346596 - DEBUG --> getting a connection 
+1604346596 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604346596 - DEBUG --> 1 
+1604346626 - DEBUG --> Attempting to make ./img/Test 
+1604346626 - DEBUG --> scucessfully unziped the upload 
+1604346626 - DEBUG --> getting a connection 
+1604346626 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604346835 - DEBUG --> Attempting to make ./img/Test2 
+1604346835 - DEBUG --> scucessfully unziped the upload 
+1604346835 - DEBUG --> getting a connection 
+1604346835 - DEBUG --> Trying to create new gallery: [./img/Test2] 
+1604346835 - DEBUG -->  
+1604346936 - DEBUG --> Attempting to make ./img/Test3 
+1604346936 - DEBUG --> scucessfully unziped the upload 
+1604346936 - DEBUG --> getting a connection 
+1604346937 - DEBUG --> Trying to create new gallery: [./img/Test3] 
+1604346937 - DEBUG --> 1 
+1604348209 - DEBUG --> Attempting to make ./img/Courtney and Logan 
+1604348209 - DEBUG --> scucessfully unziped the upload 
+1604348209 - DEBUG --> getting a connection 
+1604348210 - DEBUG --> Trying to create new gallery: [./img/Courtney and Logan] 
+1604348210 - DEBUG --> 1 
+1604348235 - DEBUG --> Attempting to make ./img/Preview 
+1604348254 - DEBUG --> Attempting to make ./img/Preview Two 
+1604348408 - DEBUG --> Attempting to make ./img/Preview 
+1604348894 - DEBUG --> Attempting to make ./img/Courtney and Logan 
+1604348894 - DEBUG --> scucessfully unziped the upload 
+1604348894 - DEBUG --> getting a connection 
+1604348894 - DEBUG --> Trying to create new gallery: [./img/Courtney and Logan] 
+1604348894 - DEBUG --> 1 
+1604349074 - DEBUG --> Attempting to make ./img/Courtney and Logan 
+1604349074 - DEBUG --> scucessfully unziped the upload 
+1604349074 - DEBUG --> ./img/Courtney and Logan/home/justin 
+1604349074 - DEBUG --> ./img/Courtney and Logan/justin 
+1604349074 - DEBUG --> getting a connection 
+1604349075 - DEBUG --> Trying to create new gallery: [./img/Courtney and Logan] 
+1604349075 - DEBUG --> 1 
+1604349186 - DEBUG --> Attempting to make ./img/Courtney and Logan 
+1604349186 - DEBUG --> scucessfully unziped the upload 
+1604349186 - DEBUG --> old ./img/Courtney and Logan/home/justin 
+1604349186 - DEBUG --> new ./img/Courtney and Logan/justin 
+1604349186 - DEBUG --> getting a connection 
+1604349187 - DEBUG --> Trying to create new gallery: [./img/Courtney and Logan] 
+1604349187 - DEBUG --> 1 
+1604349378 - DEBUG --> Attempting to make img/Courtney and Logan 
+1604349378 - DEBUG --> scucessfully unziped the upload 
+1604349378 - DEBUG --> old img/Courtney and Logan/home/justin 
+1604349378 - DEBUG --> new img/Courtney and Logan/justin 
+1604349378 - DEBUG --> getting a connection 
+1604349378 - DEBUG --> Trying to create new gallery: [img/Courtney and Logan] 
+1604349378 - DEBUG --> 1 
+1604349597 - DEBUG --> Attempting to make ./img/Courtney and Logan 
+1604349597 - DEBUG --> scucessfully unziped the upload 
+1604349597 - DEBUG --> pic justin 
+1604349597 - DEBUG --> old ./img/Courtney and Logan/home/justin 
+1604349597 - DEBUG --> new ./img/Courtney and Logan/justin 
+1604349597 - DEBUG --> getting a connection 
+1604349597 - DEBUG --> Trying to create new gallery: [./img/Courtney and Logan] 
+1604349597 - DEBUG --> 1 
+1604349754 - DEBUG --> Attempting to make ./img/Courtney and Logan 
+1604349754 - DEBUG --> scucessfully unziped the upload 
+1604349754 - DEBUG --> getting a connection 
+1604349755 - DEBUG --> Trying to create new gallery: [./img/Courtney and Logan] 
+1604349755 - DEBUG --> 1 
+1604349933 - DEBUG --> Attempting to make ./img/Preview 
+1604350120 - DEBUG --> Attempting to make ./img/Preview 
+1604350120 - DEBUG --> failed to unzip 
+1604350180 - DEBUG --> Attempting to make ./img/Preview Two 
+1604350180 - DEBUG --> scucessfully unziped the upload 
+1604350180 - DEBUG --> getting a connection 
+1604350180 - DEBUG --> Trying to create new gallery: [./img/Preview Two] 
+1604350180 - DEBUG --> 1 
+1604350314 - DEBUG --> Attempting to make ./img/Preview 
+1604350314 - DEBUG --> failed to unzip 
+1604350470 - DEBUG --> Attempting to make ./img/Preview 
+1604350470 - DEBUG --> Result of unzip:  
+1604350470 - DEBUG --> failed to unzip 
+1604350582 - DEBUG --> Attempting to make ./img/Preview 
+1604350757 - DEBUG --> Attempting to make ./img/Preview 
+1604350769 - DEBUG --> Attempting to make ./img/Preview 
+1604350769 - DEBUG --> failed to make directory ./img/Preview 
+1604350769 - DEBUG --> Result of unzip:  
+1604350769 - DEBUG --> failed to unzip 
+1604350829 - DEBUG --> Attempting to make ./img/Preview 
+1604350829 - DEBUG --> Result of unzip: 1 
+1604350829 - DEBUG --> scucessfully unziped the upload 
+1604350829 - DEBUG --> getting a connection 
+1604350830 - DEBUG --> Trying to create new gallery: [./img/Preview] 
+1604350830 - DEBUG --> 1 
+1604351457 - DEBUG --> getting a connection 
+1604351458 - DEBUG --> getting a connection 
+1604351458 - DEBUG --> getting a connection 
+1604351476 - DEBUG --> getting a connection 
+1604351477 - DEBUG --> getting a connection 
+1604351477 - DEBUG --> getting a connection 
+1604351501 - DEBUG --> getting a connection 
+1604351501 - DEBUG --> getting a connection 
+1604351502 - DEBUG --> getting a connection 
+1604351565 - DEBUG --> getting a connection 
+1604351565 - DEBUG -->  
+1604351565 - DEBUG --> getting a connection 
+1604351566 - DEBUG -->  
+1604351566 - DEBUG --> getting a connection 
+1604351566 - DEBUG -->  
+1604351708 - DEBUG --> getting a connection 
+1604351709 - DEBUG --> ./img/Courtney and Logan 
+1604351709 - DEBUG --> getting a connection 
+1604351709 - DEBUG --> ./img/Preview 
+1604351709 - DEBUG --> getting a connection 
+1604351710 - DEBUG --> ./img/Preview Two 
+1604351854 - DEBUG --> getting a connection 
+1604351856 - DEBUG -->  
+1604351856 - DEBUG --> ./img/Courtney and Logan 
+1604351856 - DEBUG --> getting a connection 
+1604351857 - DEBUG -->  
+1604351857 - DEBUG --> ./img/Preview 
+1604351857 - DEBUG --> getting a connection 
+1604351857 - DEBUG -->  
+1604351857 - DEBUG --> ./img/Preview Two 
+1604351882 - DEBUG --> getting a connection 
+1604351891 - DEBUG --> getting a connection 
+1604351891 - DEBUG --> ./img/Courtney and Logan 
+1604351891 - DEBUG --> getting a connection 
+1604351892 - DEBUG --> ./img/Preview 
+1604351892 - DEBUG --> getting a connection 
+1604351892 - DEBUG --> ./img/Preview Two 
+1604352039 - DEBUG --> getting a connection 
+1604352040 - DEBUG --> 1 
+1604352040 - DEBUG --> getting a connection 
+1604352040 - DEBUG --> 1 
+1604352040 - DEBUG --> getting a connection 
+1604352041 - DEBUG --> 1 
+1604352104 - DEBUG --> getting a connection 
+1604352105 - DEBUG -->  
+1604352105 - DEBUG --> getting a connection 
+1604352105 - DEBUG -->  
+1604352105 - DEBUG --> getting a connection 
+1604352106 - DEBUG -->  
+1604352130 - DEBUG --> getting a connection 
+1604352130 - DEBUG -->  
+1604352130 - DEBUG --> getting a connection 
+1604352131 - DEBUG -->  
+1604352131 - DEBUG --> getting a connection 
+1604352132 - DEBUG -->  
+1604352185 - DEBUG --> getting a connection 
+1604352186 - DEBUG -->  
+1604352186 - DEBUG --> getting a connection 
+1604352186 - DEBUG -->  
+1604352186 - DEBUG --> getting a connection 
+1604352186 - DEBUG -->  
+1604352232 - DEBUG --> getting a connection 
+1604352255 - DEBUG --> getting a connection 
+1604352256 - DEBUG --> select * from galleries where path like ./img/Courtney and Logan 
+1604352256 - DEBUG -->  
+1604352256 - DEBUG --> getting a connection 
+1604352256 - DEBUG --> select * from galleries where path like ./img/Preview 
+1604352256 - DEBUG -->  
+1604352256 - DEBUG --> getting a connection 
+1604352257 - DEBUG --> select * from galleries where path like ./img/Preview Two 
+1604352257 - DEBUG -->  
+1604352364 - DEBUG --> getting a connection 
+1604352364 - DEBUG --> select * from galleries where path like './img/Courtney and Logan' 
+1604352385 - DEBUG --> getting a connection 
+1604352385 - DEBUG --> select * from galleries where path like './img/Courtney and Logan 
+1604352386 - DEBUG -->  
+1604352386 - DEBUG --> getting a connection 
+1604352386 - DEBUG --> select * from galleries where path like './img/Preview 
+1604352386 - DEBUG -->  
+1604352386 - DEBUG --> getting a connection 
+1604352387 - DEBUG --> select * from galleries where path like './img/Preview Two 
+1604352387 - DEBUG -->  
+1604352396 - DEBUG --> getting a connection 
+1604352397 - DEBUG --> select * from galleries where path like './img/Courtney and Logan 
+1604352397 - DEBUG -->  
+1604352397 - DEBUG --> getting a connection 
+1604352397 - DEBUG --> select * from galleries where path like './img/Preview 
+1604352397 - DEBUG -->  
+1604352397 - DEBUG --> getting a connection 
+1604352398 - DEBUG --> select * from galleries where path like './img/Preview Two 
+1604352398 - DEBUG -->  
+1604352406 - DEBUG --> getting a connection 
+1604352406 - DEBUG --> select * from galleries where path like './img/Courtney and Logan' 
+1604352467 - DEBUG --> getting a connection 
+1604352468 - DEBUG --> select * from galleries where path like './img/Courtney and Logan' 
+1604352632 - DEBUG --> getting a connection 
+1604352632 - DEBUG --> Array 
+1604352632 - DEBUG --> Array 
+1604352632 - DEBUG --> getting a connection 
+1604352633 - DEBUG --> Array 
+1604352633 - DEBUG --> Array 
+1604352633 - DEBUG --> getting a connection 
+1604352633 - DEBUG --> Array 
+1604352633 - DEBUG --> Array 
+1604352690 - DEBUG --> getting a connection 
+1604352691 - DEBUG --> 1 
+1604352691 - DEBUG --> Array 
+1604352691 - DEBUG --> getting a connection 
+1604352691 - DEBUG --> 1 
+1604352691 - DEBUG --> Array 
+1604352691 - DEBUG --> getting a connection 
+1604352691 - DEBUG --> 1 
+1604352691 - DEBUG --> Array 
+1604352722 - DEBUG --> getting a connection 
+1604352723 - DEBUG --> Array 
+1604352723 - DEBUG --> Array 
+1604352723 - DEBUG --> getting a connection 
+1604352723 - DEBUG --> Array 
+1604352723 - DEBUG --> Array 
+1604352723 - DEBUG --> getting a connection 
+1604352724 - DEBUG --> Array 
+1604352724 - DEBUG --> Array 
+1604352808 - DEBUG --> getting a connection 
+1604352808 - DEBUG --> Array 
+1604352808 - DEBUG --> getting a connection 
+1604352809 - DEBUG --> Array 
+1604352809 - DEBUG --> getting a connection 
+1604352809 - DEBUG --> Array 
+1604352859 - DEBUG --> getting a connection 
+1604352860 - DEBUG --> getting a connection 
+1604352861 - DEBUG --> getting a connection 
+1604353020 - DEBUG --> getting a connection 
+1604353020 - DEBUG --> getting a connection 
+1604353021 - DEBUG --> getting a connection 
+1604353068 - DEBUG --> getting a connection 
+1604353069 - DEBUG --> getting a connection 
+1604353069 - DEBUG --> getting a connection 
+1604353133 - DEBUG --> getting a connection 
+1604353134 - DEBUG --> getting a connection 
+1604353134 - DEBUG --> getting a connection 
+1604353142 - DEBUG --> getting a connection 
+1604353142 - DEBUG --> getting a connection 
+1604353143 - DEBUG --> getting a connection 
+1604353147 - DEBUG --> getting a connection 
+1604353147 - DEBUG --> getting a connection 
+1604353148 - DEBUG --> getting a connection 
+1604362265 - DEBUG --> getting a connection 
+1604362266 - DEBUG --> getting a connection 
+1604362266 - DEBUG --> getting a connection 
+1604362280 - DEBUG --> getting a connection 
+1604362280 - DEBUG --> getting a connection 
+1604362281 - DEBUG --> getting a connection 
+1604362724 - DEBUG --> getting a connection 
+1604362725 - DEBUG --> getting a connection 
+1604362726 - DEBUG --> getting a connection 
+1604362728 - DEBUG --> getting a connection 
+1604362733 - DEBUG --> getting a connection 
+1604362734 - DEBUG --> getting a connection 
+1604362735 - DEBUG --> getting a connection 
+1604362776 - DEBUG --> getting a connection 
+1604362828 - DEBUG --> getting a connection 
+1604362863 - DEBUG --> getting a connection 
+1604362864 - DEBUG --> Trying to load pictures from  
+1604362911 - DEBUG --> getting a connection 
+1604362912 - DEBUG --> Trying to load pictures from  
+1604362977 - DEBUG --> getting a connection 
+1604362977 - DEBUG --> ID = , Trying to load pictures from  
+1604363185 - DEBUG --> getting a connection 
+1604363186 - DEBUG --> getting a connection 
+1604363186 - DEBUG --> getting a connection 
+1604363227 - DEBUG --> getting a connection 
+1604363227 - DEBUG --> getting a connection 
+1604363228 - DEBUG --> getting a connection 
+1604363272 - DEBUG --> getting a connection 
+1604363273 - DEBUG --> getting a connection 
+1604363273 - DEBUG --> getting a connection 
+1604363321 - DEBUG --> getting a connection 
+1604363321 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604363406 - DEBUG --> getting a connection 
+1604363407 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604363421 - DEBUG --> getting a connection 
+1604363421 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604363438 - DEBUG --> getting a connection 
+1604363439 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604363454 - DEBUG --> getting a connection 
+1604363454 - DEBUG --> getting a connection 
+1604363455 - DEBUG --> getting a connection 
+1604363457 - DEBUG --> getting a connection 
+1604363457 - DEBUG --> ID = 71, Trying to load pictures from ./img/Courtney and Logan 
+1604363465 - DEBUG --> getting a connection 
+1604363466 - DEBUG --> getting a connection 
+1604363466 - DEBUG --> getting a connection 
+1604363469 - DEBUG --> getting a connection 
+1604363470 - DEBUG --> ID = 91, Trying to load pictures from ./img/Preview 
+1604363483 - DEBUG --> getting a connection 
+1604363484 - DEBUG --> getting a connection 
+1604363484 - DEBUG --> getting a connection 
+1604364452 - DEBUG --> getting a connection 
+1604364453 - DEBUG --> ID = 71, Trying to load pictures from ./img/Courtney and Logan 
+1604371355 - DEBUG --> getting a connection 
+1604371356 - DEBUG --> ID = 71, Trying to load pictures from ./img/Courtney and Logan 
+1604371357 - DEBUG --> getting a connection 
+1604371358 - DEBUG --> getting a connection 
+1604371358 - DEBUG --> getting a connection 
+1604371374 - DEBUG --> getting a connection 
+1604371375 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604371375 - DEBUG --> Array 
+1604371375 - DEBUG --> login authenticated 
+1604371375 - DEBUG --> getting a connection 
+1604371375 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604371375 - DEBUG --> 1 
+1604371380 - DEBUG --> getting a connection 
+1604371381 - DEBUG --> getting a connection 
+1604371381 - DEBUG --> getting a connection 
+1604371382 - DEBUG --> getting a connection 
+1604371383 - DEBUG --> getting a connection 
+1604371383 - DEBUG --> getting a connection 
+1604371412 - DEBUG --> Attempting to make ./img/Test 
+1604371412 - DEBUG --> Result of unzip: 1 
+1604371412 - DEBUG --> scucessfully unziped the upload 
+1604371412 - DEBUG --> pic t1.jpg 
+1604371412 - DEBUG --> old ./img/Test/test/t1.jpg 
+1604371412 - DEBUG --> new ./img/Test/t1.jpg 
+1604371412 - DEBUG --> pic t2.jpg 
+1604371412 - DEBUG --> old ./img/Test/test/t2.jpg 
+1604371412 - DEBUG --> new ./img/Test/t2.jpg 
+1604371412 - DEBUG --> pic t3.jpg 
+1604371412 - DEBUG --> old ./img/Test/test/t3.jpg 
+1604371412 - DEBUG --> new ./img/Test/t3.jpg 
+1604371412 - DEBUG --> pic t4.jpg 
+1604371412 - DEBUG --> old ./img/Test/test/t4.jpg 
+1604371412 - DEBUG --> new ./img/Test/t4.jpg 
+1604371412 - DEBUG --> pic t5.jpg 
+1604371412 - DEBUG --> old ./img/Test/test/t5.jpg 
+1604371412 - DEBUG --> new ./img/Test/t5.jpg 
+1604371412 - DEBUG --> pic t6.jpg 
+1604371412 - DEBUG --> old ./img/Test/test/t6.jpg 
+1604371412 - DEBUG --> new ./img/Test/t6.jpg 
+1604371412 - DEBUG --> getting a connection 
+1604371412 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604371412 - DEBUG --> 1 
+1604371412 - DEBUG --> getting a connection 
+1604371413 - DEBUG --> getting a connection 
+1604371413 - DEBUG --> getting a connection 
+1604371414 - DEBUG --> getting a connection 
+1604371418 - DEBUG --> getting a connection 
+1604371418 - DEBUG --> ID = 101, Trying to load pictures from ./img/Test 
+1604371435 - DEBUG --> getting a connection 
+1604371436 - DEBUG --> getting a connection 
+1604371436 - DEBUG --> getting a connection 
+1604371437 - DEBUG --> getting a connection 
+1604371440 - DEBUG --> getting a connection 
+1604371440 - DEBUG --> ID = 91, Trying to load pictures from ./img/Preview 
+1604371641 - DEBUG --> getting a connection 
+1604371641 - DEBUG --> getting a connection 
+1604371641 - DEBUG --> getting a connection 
+1604371642 - DEBUG --> getting a connection 
+1604371803 - DEBUG --> getting a connection 
+1604371803 - DEBUG --> getting a connection 
+1604371804 - DEBUG --> getting a connection 
+1604371804 - DEBUG --> getting a connection 
+1604372216 - DEBUG --> getting a connection 
+1604372217 - DEBUG --> getting a connection 
+1604372217 - DEBUG --> getting a connection 
+1604372218 - DEBUG --> getting a connection 
+1604372256 - DEBUG --> getting a connection 
+1604372256 - DEBUG --> getting a connection 
+1604372257 - DEBUG --> getting a connection 
+1604372257 - DEBUG --> getting a connection 
+1604372268 - DEBUG --> getting a connection 
+1604372269 - DEBUG --> getting a connection 
+1604372269 - DEBUG --> getting a connection 
+1604372270 - DEBUG --> getting a connection 
+1604374485 - DEBUG --> getting a connection 
+1604374486 - DEBUG --> getting a connection 
+1604374486 - DEBUG --> getting a connection 
+1604374487 - DEBUG --> getting a connection 
+1604374534 - DEBUG --> getting a connection 
+1604374535 - DEBUG --> getting a connection 
+1604374536 - DEBUG --> getting a connection 
+1604374537 - DEBUG --> getting a connection 
+1604374541 - DEBUG --> getting a connection 
+1604374542 - DEBUG --> getting a connection 
+1604374542 - DEBUG --> getting a connection 
+1604374542 - DEBUG --> getting a connection 
+1604374556 - DEBUG --> getting a connection 
+1604374556 - DEBUG --> getting a connection 
+1604374557 - DEBUG --> getting a connection 
+1604374557 - DEBUG --> getting a connection 
+1604374570 - DEBUG --> getting a connection 
+1604374571 - DEBUG --> getting a connection 
+1604374571 - DEBUG --> getting a connection 
+1604374571 - DEBUG --> getting a connection 
+1604374590 - DEBUG --> getting a connection 
+1604374591 - DEBUG --> getting a connection 
+1604374591 - DEBUG --> getting a connection 
+1604374592 - DEBUG --> getting a connection 
+1604374659 - DEBUG --> getting a connection 
+1604374659 - DEBUG --> getting a connection 
+1604374660 - DEBUG --> getting a connection 
+1604374660 - DEBUG --> getting a connection 
+1604374676 - DEBUG --> getting a connection 
+1604374677 - DEBUG --> getting a connection 
+1604374677 - DEBUG --> getting a connection 
+1604374677 - DEBUG --> getting a connection 
+1604374752 - DEBUG --> getting a connection 
+1604374753 - DEBUG --> getting a connection 
+1604374754 - DEBUG --> getting a connection 
+1604374755 - DEBUG --> getting a connection 
+1604374787 - DEBUG --> getting a connection 
+1604374787 - DEBUG --> getting a connection 
+1604374788 - DEBUG --> getting a connection 
+1604374788 - DEBUG --> getting a connection 
+1604375028 - DEBUG --> getting a connection 
+1604375029 - DEBUG --> getting a connection 
+1604375029 - DEBUG --> getting a connection 
+1604375029 - DEBUG --> getting a connection 
+1604375038 - DEBUG --> getting a connection 
+1604375039 - DEBUG --> getting a connection 
+1604375039 - DEBUG --> getting a connection 
+1604375040 - DEBUG --> getting a connection 
+1604375053 - DEBUG --> getting a connection 
+1604375053 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604375053 - DEBUG --> Array 
+1604375053 - DEBUG --> login authenticated 
+1604375053 - DEBUG --> getting a connection 
+1604375054 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604375054 - DEBUG --> 1 
+1604375055 - DEBUG --> getting a connection 
+1604375056 - DEBUG --> getting a connection 
+1604375056 - DEBUG --> getting a connection 
+1604375057 - DEBUG --> getting a connection 
+1604377119 - DEBUG --> getting a connection 
+1604377120 - DEBUG --> ID = , Trying to load pictures from  
+1604377125 - DEBUG --> getting a connection 
+1604377126 - DEBUG --> getting a connection 
+1604377126 - DEBUG --> getting a connection 
+1604377127 - DEBUG --> getting a connection 
+1604377135 - DEBUG --> getting a connection 
+1604377135 - DEBUG --> Trying to log in [justinheck@u.boisestate.edu] 
+1604377135 - DEBUG --> Array 
+1604377135 - DEBUG --> login authenticated 
+1604377135 - DEBUG --> getting a connection 
+1604377135 - DEBUG --> Trying to find permissions for [justinheck@u.boisestate.edu] 
+1604377135 - DEBUG --> 1 
+1604377140 - DEBUG --> getting a connection 
+1604377140 - DEBUG --> getting a connection 
+1604377141 - DEBUG --> getting a connection 
+1604377141 - DEBUG --> getting a connection 
+1604377181 - DEBUG --> getting a connection 
+1604377181 - DEBUG --> getting a connection 
+1604377182 - DEBUG --> getting a connection 
+1604377183 - DEBUG --> getting a connection 
+1604377188 - DEBUG --> getting a connection 
+1604377188 - DEBUG --> getting a connection 
+1604377188 - DEBUG --> getting a connection 
+1604377189 - DEBUG --> getting a connection 
+1604377223 - DEBUG --> getting a connection 
+1604377223 - DEBUG --> getting a connection 
+1604377224 - DEBUG --> getting a connection 
+1604377224 - DEBUG --> getting a connection 
+1604377271 - DEBUG --> getting a connection 
+1604377272 - DEBUG --> getting a connection 
+1604377272 - DEBUG --> getting a connection 
+1604377300 - DEBUG --> Attempting to make ./img/Test 
+1604377300 - DEBUG --> Result of unzip: 1 
+1604377300 - DEBUG --> scucessfully unziped the upload 
+1604377300 - DEBUG --> pic t1.jpg 
+1604377300 - DEBUG --> old ./img/Test/test/t1.jpg 
+1604377300 - DEBUG --> new ./img/Test/t1.jpg 
+1604377300 - DEBUG --> pic t2.jpg 
+1604377300 - DEBUG --> old ./img/Test/test/t2.jpg 
+1604377300 - DEBUG --> new ./img/Test/t2.jpg 
+1604377300 - DEBUG --> pic t3.jpg 
+1604377300 - DEBUG --> old ./img/Test/test/t3.jpg 
+1604377300 - DEBUG --> new ./img/Test/t3.jpg 
+1604377300 - DEBUG --> pic t4.jpg 
+1604377300 - DEBUG --> old ./img/Test/test/t4.jpg 
+1604377300 - DEBUG --> new ./img/Test/t4.jpg 
+1604377300 - DEBUG --> pic t5.jpg 
+1604377300 - DEBUG --> old ./img/Test/test/t5.jpg 
+1604377300 - DEBUG --> new ./img/Test/t5.jpg 
+1604377300 - DEBUG --> pic t6.jpg 
+1604377300 - DEBUG --> old ./img/Test/test/t6.jpg 
+1604377300 - DEBUG --> new ./img/Test/t6.jpg 
+1604377300 - DEBUG --> getting a connection 
+1604377300 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604377300 - DEBUG --> 1 
+1604377300 - DEBUG --> getting a connection 
+1604377301 - DEBUG --> getting a connection 
+1604377301 - DEBUG --> getting a connection 
+1604377302 - DEBUG --> getting a connection 
+1604377308 - DEBUG --> getting a connection 
+1604377309 - DEBUG --> getting a connection 
+1604377309 - DEBUG --> getting a connection 
+1604377309 - DEBUG --> getting a connection 
+1604377357 - DEBUG --> getting a connection 
+1604377357 - DEBUG --> getting a connection 
+1604377358 - DEBUG --> getting a connection 
+1604377358 - DEBUG --> getting a connection 
+1604377418 - DEBUG --> getting a connection 
+1604377419 - DEBUG --> getting a connection 
+1604377419 - DEBUG --> getting a connection 
+1604377419 - DEBUG --> getting a connection 
+1604377425 - DEBUG --> getting a connection 
+1604377425 - DEBUG --> getting a connection 
+1604377425 - DEBUG --> getting a connection 
+1604377426 - DEBUG --> getting a connection 
+1604377437 - DEBUG --> Deleting gallery with id: 111 
+1604377976 - DEBUG --> getting a connection 
+1604377976 - DEBUG --> getting a connection 
+1604377977 - DEBUG --> getting a connection 
+1604377977 - DEBUG --> getting a connection 
+1604377980 - DEBUG --> Deleting gallery with id: 111 
+1604377980 - DEBUG --> getting a connection 
+1604378026 - DEBUG --> Deleting gallery with id: 111 
+1604378026 - DEBUG --> getting a connection 
+1604378216 - DEBUG --> Deleting gallery with id: 111 
+1604378216 - DEBUG --> getting a connection 
+1604378274 - DEBUG --> getting a connection 
+1604378275 - DEBUG --> getting a connection 
+1604378275 - DEBUG --> getting a connection 
+1604378298 - DEBUG --> Attempting to make ./img/Test 
+1604378298 - DEBUG --> Result of unzip: 1 
+1604378298 - DEBUG --> scucessfully unziped the upload 
+1604378298 - DEBUG --> pic t1.jpg 
+1604378298 - DEBUG --> old ./img/Test/test/t1.jpg 
+1604378298 - DEBUG --> new ./img/Test/t1.jpg 
+1604378298 - DEBUG --> pic t2.jpg 
+1604378298 - DEBUG --> old ./img/Test/test/t2.jpg 
+1604378298 - DEBUG --> new ./img/Test/t2.jpg 
+1604378298 - DEBUG --> pic t3.jpg 
+1604378298 - DEBUG --> old ./img/Test/test/t3.jpg 
+1604378298 - DEBUG --> new ./img/Test/t3.jpg 
+1604378298 - DEBUG --> pic t4.jpg 
+1604378298 - DEBUG --> old ./img/Test/test/t4.jpg 
+1604378298 - DEBUG --> new ./img/Test/t4.jpg 
+1604378298 - DEBUG --> pic t5.jpg 
+1604378298 - DEBUG --> old ./img/Test/test/t5.jpg 
+1604378298 - DEBUG --> new ./img/Test/t5.jpg 
+1604378298 - DEBUG --> pic t6.jpg 
+1604378298 - DEBUG --> old ./img/Test/test/t6.jpg 
+1604378298 - DEBUG --> new ./img/Test/t6.jpg 
+1604378298 - DEBUG --> getting a connection 
+1604378298 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604378298 - DEBUG --> 1 
+1604378298 - DEBUG --> getting a connection 
+1604378298 - DEBUG --> getting a connection 
+1604378299 - DEBUG --> getting a connection 
+1604378299 - DEBUG --> getting a connection 
+1604378343 - DEBUG --> getting a connection 
+1604378343 - DEBUG --> getting a connection 
+1604378343 - DEBUG --> getting a connection 
+1604378344 - DEBUG --> getting a connection 
+1604378356 - DEBUG --> getting a connection 
+1604378356 - DEBUG --> getting a connection 
+1604378356 - DEBUG --> getting a connection 
+1604378357 - DEBUG --> getting a connection 
+1604378422 - DEBUG --> Deleting gallery with id: 111 
+1604378422 - DEBUG --> getting a connection 
+1604378423 - DEBUG --> getting a connection 
+1604378423 - DEBUG --> getting a connection 
+1604378423 - DEBUG --> getting a connection 
+1604378424 - DEBUG --> getting a connection 
+1604378780 - DEBUG --> Attempting to make ./img/Test 
+1604378780 - DEBUG --> Result of unzip: 1 
+1604378780 - DEBUG --> scucessfully unziped the upload 
+1604378780 - DEBUG --> pic t1.jpg 
+1604378780 - DEBUG --> old ./img/Test/test/t1.jpg 
+1604378780 - DEBUG --> new ./img/Test/t1.jpg 
+1604378780 - DEBUG --> pic t2.jpg 
+1604378780 - DEBUG --> old ./img/Test/test/t2.jpg 
+1604378780 - DEBUG --> new ./img/Test/t2.jpg 
+1604378780 - DEBUG --> pic t3.jpg 
+1604378780 - DEBUG --> old ./img/Test/test/t3.jpg 
+1604378780 - DEBUG --> new ./img/Test/t3.jpg 
+1604378780 - DEBUG --> pic t4.jpg 
+1604378780 - DEBUG --> old ./img/Test/test/t4.jpg 
+1604378780 - DEBUG --> new ./img/Test/t4.jpg 
+1604378780 - DEBUG --> pic t5.jpg 
+1604378780 - DEBUG --> old ./img/Test/test/t5.jpg 
+1604378780 - DEBUG --> new ./img/Test/t5.jpg 
+1604378780 - DEBUG --> pic t6.jpg 
+1604378780 - DEBUG --> old ./img/Test/test/t6.jpg 
+1604378780 - DEBUG --> new ./img/Test/t6.jpg 
+1604378780 - DEBUG --> getting a connection 
+1604378780 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604378780 - DEBUG --> 1 
+1604378780 - DEBUG --> getting a connection 
+1604378781 - DEBUG --> getting a connection 
+1604378781 - DEBUG --> getting a connection 
+1604378782 - DEBUG --> getting a connection 
+1604378844 - DEBUG --> Deleting gallery with id: 131 
+1604378844 - DEBUG --> getting a connection 
+1604378845 - DEBUG --> Deleting id: 131 
+1604378845 - DEBUG --> getting a connection 
+1604378845 - DEBUG --> getting a connection 
+1604378846 - DEBUG --> getting a connection 
+1604378846 - DEBUG --> getting a connection 
+1604378902 - DEBUG --> Attempting to make ./img/Test 
+1604378902 - DEBUG --> Result of unzip: 1 
+1604378902 - DEBUG --> scucessfully unziped the upload 
+1604378902 - DEBUG --> pic t1.jpg 
+1604378902 - DEBUG --> old ./img/Test/test/t1.jpg 
+1604378902 - DEBUG --> new ./img/Test/t1.jpg 
+1604378902 - DEBUG --> pic t2.jpg 
+1604378902 - DEBUG --> old ./img/Test/test/t2.jpg 
+1604378902 - DEBUG --> new ./img/Test/t2.jpg 
+1604378902 - DEBUG --> pic t3.jpg 
+1604378902 - DEBUG --> old ./img/Test/test/t3.jpg 
+1604378902 - DEBUG --> new ./img/Test/t3.jpg 
+1604378902 - DEBUG --> pic t4.jpg 
+1604378902 - DEBUG --> old ./img/Test/test/t4.jpg 
+1604378902 - DEBUG --> new ./img/Test/t4.jpg 
+1604378902 - DEBUG --> pic t5.jpg 
+1604378902 - DEBUG --> old ./img/Test/test/t5.jpg 
+1604378902 - DEBUG --> new ./img/Test/t5.jpg 
+1604378902 - DEBUG --> pic t6.jpg 
+1604378902 - DEBUG --> old ./img/Test/test/t6.jpg 
+1604378902 - DEBUG --> new ./img/Test/t6.jpg 
+1604378902 - DEBUG --> getting a connection 
+1604378903 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604378903 - DEBUG --> 1 
+1604378903 - DEBUG --> getting a connection 
+1604378903 - DEBUG --> getting a connection 
+1604378904 - DEBUG --> getting a connection 
+1604378904 - DEBUG --> getting a connection 
+1604378920 - DEBUG --> Deleting gallery with id: 141 
+1604378920 - DEBUG --> getting a connection 
+1604378921 - DEBUG --> Deleting id: 141 
+1604378921 - DEBUG --> getting a connection 
+1604378921 - DEBUG --> getting a connection 
+1604378922 - DEBUG --> getting a connection 
+1604378922 - DEBUG --> getting a connection 
+1604379173 - DEBUG --> Attempting to make ./img/Test 
+1604379173 - DEBUG --> Result of unzip:  
+1604379173 - DEBUG --> failed to unzip 
+1604379173 - DEBUG --> getting a connection 
+1604379173 - DEBUG --> getting a connection 
+1604379174 - DEBUG --> getting a connection 
+1604379174 - DEBUG --> getting a connection 
+1604379178 - DEBUG --> Deleting gallery with id:  
+1604379178 - DEBUG --> getting a connection 
+1604379178 - DEBUG --> Deleting id:  
+1604379178 - DEBUG --> getting a connection 
+1604379179 - DEBUG --> getting a connection 
+1604379179 - DEBUG --> getting a connection 
+1604379180 - DEBUG --> getting a connection 
+1604379180 - DEBUG --> getting a connection 
+1604379529 - DEBUG --> getting a connection 
+1604379529 - DEBUG --> getting a connection 
+1604379530 - DEBUG --> getting a connection 
+1604379537 - DEBUG --> getting a connection 
+1604379537 - DEBUG --> getting a connection 
+1604379538 - DEBUG --> getting a connection 
+1604379580 - DEBUG --> Attempting to make ./img/Test 
+1604379580 - DEBUG --> Result of unzip: 1 
+1604379580 - DEBUG --> scucessfully unziped the upload 
+1604379580 - DEBUG --> pic t1.jpg 
+1604379580 - DEBUG --> old ./img/Test/test/t1.jpg 
+1604379580 - DEBUG --> new ./img/Test/t1.jpg 
+1604379580 - DEBUG --> pic t2.jpg 
+1604379580 - DEBUG --> old ./img/Test/test/t2.jpg 
+1604379580 - DEBUG --> new ./img/Test/t2.jpg 
+1604379580 - DEBUG --> pic t3.jpg 
+1604379580 - DEBUG --> old ./img/Test/test/t3.jpg 
+1604379580 - DEBUG --> new ./img/Test/t3.jpg 
+1604379580 - DEBUG --> pic t4.jpg 
+1604379580 - DEBUG --> old ./img/Test/test/t4.jpg 
+1604379580 - DEBUG --> new ./img/Test/t4.jpg 
+1604379580 - DEBUG --> pic t5.jpg 
+1604379580 - DEBUG --> old ./img/Test/test/t5.jpg 
+1604379580 - DEBUG --> new ./img/Test/t5.jpg 
+1604379580 - DEBUG --> pic t6.jpg 
+1604379580 - DEBUG --> old ./img/Test/test/t6.jpg 
+1604379580 - DEBUG --> new ./img/Test/t6.jpg 
+1604379580 - DEBUG --> getting a connection 
+1604379580 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604379580 - DEBUG --> 1 
+1604379580 - DEBUG --> getting a connection 
+1604379581 - DEBUG --> getting a connection 
+1604379581 - DEBUG --> getting a connection 
+1604379582 - DEBUG --> getting a connection 
+1604379587 - DEBUG --> Deleting gallery with id: 151 
+1604379587 - DEBUG --> getting a connection 
+1604379587 - DEBUG --> Deleting id: 151 
+1604379587 - DEBUG --> getting a connection 
+1604379588 - DEBUG --> getting a connection 
+1604379588 - DEBUG --> getting a connection 
+1604379589 - DEBUG --> getting a connection 
+1604379679 - DEBUG --> getting a connection 
+1604379679 - DEBUG --> getting a connection 
+1604379680 - DEBUG --> getting a connection 
+1604379739 - DEBUG --> getting a connection 
+1604379739 - DEBUG --> ID = 91, Trying to load pictures from ./img/Preview 
+1604380049 - DEBUG --> getting a connection 
+1604380049 - DEBUG --> getting a connection 
+1604380050 - DEBUG --> getting a connection 
+1604380056 - DEBUG --> getting a connection 
+1604380056 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604380152 - DEBUG --> getting a connection 
+1604380152 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604380155 - DEBUG --> getting a connection 
+1604380156 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604380224 - DEBUG --> getting a connection 
+1604380225 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604380232 - DEBUG --> getting a connection 
+1604380233 - DEBUG --> getting a connection 
+1604380233 - DEBUG --> getting a connection 
+1604380240 - DEBUG --> getting a connection 
+1604380240 - DEBUG --> ID = 91, Trying to load pictures from ./img/Preview 
+1604380385 - DEBUG --> getting a connection 
+1604380386 - DEBUG --> getting a connection 
+1604380387 - DEBUG --> getting a connection 
+1604380407 - DEBUG --> getting a connection 
+1604380408 - DEBUG --> getting a connection 
+1604380408 - DEBUG --> getting a connection 
+1604380412 - DEBUG --> getting a connection 
+1604380412 - DEBUG --> ID = 81, Trying to load pictures from ./img/Preview Two 
+1604380416 - DEBUG --> getting a connection 
+1604380416 - DEBUG --> getting a connection 
+1604380416 - DEBUG --> getting a connection 
+1604381376 - DEBUG --> getting a connection 
+1604381377 - DEBUG --> ID = 71, Trying to load pictures from ./img/Courtney and Logan 
+1604381379 - DEBUG --> getting a connection 
+1604381380 - DEBUG --> getting a connection 
+1604381380 - DEBUG --> getting a connection 
+1604381986 - DEBUG --> getting a connection 
+1604381989 - DEBUG --> getting a connection 
+1604381989 - DEBUG --> getting a connection 
+1604382000 - DEBUG --> getting a connection 
+1604382000 - DEBUG --> getting a connection 
+1604382001 - DEBUG --> getting a connection 
+1604382085 - DEBUG --> getting a connection 
+1604382086 - DEBUG --> getting a connection 
+1604382087 - DEBUG --> getting a connection 
+1604382135 - DEBUG --> getting a connection 
+1604382135 - DEBUG --> getting a connection 
+1604382136 - DEBUG --> getting a connection 
+1604382141 - DEBUG --> getting a connection 
+1604382142 - DEBUG --> getting a connection 
+1604382142 - DEBUG --> getting a connection 
+1604382230 - DEBUG --> getting a connection 
+1604382231 - DEBUG --> getting a connection 
+1604382231 - DEBUG --> getting a connection 
+1604382277 - DEBUG --> getting a connection 
+1604382277 - DEBUG --> getting a connection 
+1604382278 - DEBUG --> getting a connection 
+1604382285 - DEBUG --> getting a connection 
+1604382286 - DEBUG --> getting a connection 
+1604382286 - DEBUG --> getting a connection 
+1604382330 - DEBUG --> getting a connection 
+1604382331 - DEBUG --> getting a connection 
+1604382332 - DEBUG --> getting a connection 
+1604382397 - DEBUG --> getting a connection 
+1604382398 - DEBUG --> getting a connection 
+1604382398 - DEBUG --> getting a connection 
+1604382421 - DEBUG --> Attempting to make ./img/Test 
+1604382421 - DEBUG --> Result of unzip: 1 
+1604382421 - DEBUG --> scucessfully unziped the upload 
+1604382421 - DEBUG --> pic t1.jpg 
+1604382421 - DEBUG --> old ./img/Test/test/t1.jpg 
+1604382421 - DEBUG --> new ./img/Test/t1.jpg 
+1604382421 - DEBUG --> pic t2.jpg 
+1604382421 - DEBUG --> old ./img/Test/test/t2.jpg 
+1604382421 - DEBUG --> new ./img/Test/t2.jpg 
+1604382421 - DEBUG --> pic t3.jpg 
+1604382421 - DEBUG --> old ./img/Test/test/t3.jpg 
+1604382421 - DEBUG --> new ./img/Test/t3.jpg 
+1604382421 - DEBUG --> pic t4.jpg 
+1604382421 - DEBUG --> old ./img/Test/test/t4.jpg 
+1604382421 - DEBUG --> new ./img/Test/t4.jpg 
+1604382421 - DEBUG --> pic t5.jpg 
+1604382421 - DEBUG --> old ./img/Test/test/t5.jpg 
+1604382421 - DEBUG --> new ./img/Test/t5.jpg 
+1604382421 - DEBUG --> pic t6.jpg 
+1604382421 - DEBUG --> old ./img/Test/test/t6.jpg 
+1604382421 - DEBUG --> new ./img/Test/t6.jpg 
+1604382421 - DEBUG --> getting a connection 
+1604382422 - DEBUG --> Trying to create new gallery: [./img/Test] 
+1604382422 - DEBUG --> 1 
+1604382422 - DEBUG --> getting a connection 
+1604382422 - DEBUG --> getting a connection 
+1604382423 - DEBUG --> getting a connection 
+1604382423 - DEBUG --> getting a connection 
+1604382433 - DEBUG --> Deleting gallery with id: 181 
+1604382433 - DEBUG --> getting a connection 
+1604382434 - DEBUG --> Deleting id: 181 
+1604382434 - DEBUG --> getting a connection 
+1604382434 - DEBUG --> getting a connection 
+1604382435 - DEBUG --> getting a connection 
+1604382435 - DEBUG --> getting a connection 
+1604382753 - DEBUG --> getting a connection 
+1604382754 - DEBUG --> getting a connection 
+1604382754 - DEBUG --> getting a connection 
+1604382759 - DEBUG --> getting a connection 
+1604382759 - DEBUG --> getting a connection 
+1604382760 - DEBUG --> getting a connection 
+1604383114 - DEBUG --> getting a connection 
+1604383114 - DEBUG --> getting a connection 
+1604383115 - DEBUG --> getting a connection 
+1604383121 - DEBUG --> getting a connection 
+1604383122 - DEBUG --> getting a connection 
+1604383122 - DEBUG --> getting a connection 
+1604383293 - DEBUG --> getting a connection 
+1604383293 - DEBUG --> getting a connection 
+1604383294 - DEBUG --> getting a connection 
+1604383360 - DEBUG --> getting a connection 
+1604383361 - DEBUG --> getting a connection 
+1604383361 - DEBUG --> getting a connection 
+1604383367 - DEBUG --> getting a connection 
+1604383368 - DEBUG --> getting a connection 
+1604383368 - DEBUG --> getting a connection 
+1604383480 - DEBUG --> getting a connection 
+1604383481 - DEBUG --> getting a connection 
+1604383481 - DEBUG --> getting a connection 
