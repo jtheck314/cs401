@@ -3,8 +3,14 @@
 <div id="login">
  <h3>Existing Users</h3>
  <form method="POST" action="login_handler.php">
-  <div>Email: <input type="text" name="email" /></div>
-  <div>Password: <input type="text" name="password" /></div>
+  <div>
+   <label for="email">Email: </label>
+   <input type="text" name="email" />
+  </div>
+  <div>
+   <label for="password">Password: </label>
+   <input type="text" name="password" />
+  </div>
   <input type="submit" value="Log In"/>
  </form>
  <hr/>

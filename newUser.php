@@ -12,20 +12,33 @@ if(isset($_SESSION['form'])){
 ?>
 <div id="newUser">
  <h1>New User Creation</h1>
- <form method="POST" action="newUser_handler.php">
-  <div>First Name: <input value="<?php echo $firstName_preset; ?>" type="text" name="firstName" id="firstName"/></div>
-  <div>Last Name: <input value="<?php echo $lastName_preset; ?>" type="text" name="lastName" id="lastName"/></div>
-  <div>Password: <input value="<?php echo $password_preset; ?>" type="text" name="password" id="password"/></div>
-  <div>Email: <input value="<?php echo $email_preset; ?>" type="text" name="email" id="email"/></div>
-  <div>Phone Number: <input value="<?php echo $phone_preset; ?>" type="text" name="phone" id="phone"/></div>
+ <form id="newUser" class="f">
+  <div>
+   <label for="first name">First Name: </label>
+   <input value="<?php echo $firstName_preset; ?>" type="text" name="firstName" id="firstName"/>
+  </div>
+  <div>
+   <label for="last name">Last Name: </label>
+   <input value="<?php echo $lastName_preset; ?>" type="text" name="lastName" id="lastName"/>
+  </div>
+  <div>
+   <label for="password">Password: </label>
+   <input value="<?php echo $password_preset; ?>" type="text" name="password" id="password"/>
+  </div>
+  <div>
+   <label for="email">Email: </label>
+   <input value="<?php echo $email_preset; ?>" type="text" name="email" id="email"/>
+  </div>
+  <div>
+   <label for="phone">Phone Number: </label>
+   <input value="<?php echo $phone_preset; ?>" type="text" name="phone" id="phone"/>
+  </div>
   <input type="submit" value="Create Account"/>
  </form>
-<?php
-if(isset($_SESSION['errors'])){
-	foreach($_SESSION['errors'] as $error){
-		echo "<div>" . $error . "</div>";
-	}
-}
-?>
+ <div class='bad' id="0">Bad first name<span class='fadeout'>X</span></div>
+ <div class='bad' id="1">Bad last name<span class='fadeout'>X</span></div>
+ <div class='bad' id="2">Bad password<span class='fadeout'>X</span></div>
+ <div class='bad' id="3">Bad email<span class='fadeout'>X</span></div>
+ <div class='bad' id="4">Bad phone number<span class='fadeout'>X</span></div>
 </div>
 <?php require_once "footer.php"; ?>

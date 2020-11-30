@@ -1,5 +1,14 @@
 <?php $pageName = "calendar"; ?>
-<?php require_once "header.php"; ?>
+<?php
+
+session_start();
+
+if(isset($_SESSION['authenticated']) && !$_SESSION['authenticated'] || !isset($_SESSION['authenticated'])) {
+        header("Location: login.php");
+}
+
+require_once "header.php"; ?>
+
 
 <div class="calendar">
  <img src="img/calendar.png"/>

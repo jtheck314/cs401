@@ -14,7 +14,7 @@ if(isset($_SESSION['form'])){
 
 <?php renderPreviews(); ?>
 
-<?php if($_SESSION['permissions']){ ?>
+<?php if($_SESSION['permissions'] == 1){ ?>
 
 <h2> Upload New Gallery </h2>
 <form action="uploadGallery.php" method="POST" enctype="multipart/form-data" name="upload">

@@ -8,6 +8,10 @@ session_start();
  <head>
   <link rel="stylesheet" type="text/css" href="photographs.css">
   <link rel='icon' href='img/camera.jpg' type='image/jpg'>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="myScripts.js"></script>
  <head/>
  <body>
   <div id="banner">

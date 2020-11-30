@@ -33,7 +33,7 @@ class Dao {
 	  $q->bindParam(":first", $first);
 	  $q->bindParam(":last", $last);
 	  $q->bindParam(":email", $email);
-	  $q->bindParam(":password", $password);
+	  $q->bindParam(":password", hash("sha256", $password . "@#$%"));
 	  $q->bindParam(":phone", $phone);
 	  $q->execute();
   }
@@ -53,7 +53,7 @@ class Dao {
 	$query = "select * from user where email like :email and password like :password";
 	$q = $conn->prepare($query);
 	$q->bindParam(":email", $email);
-	$q->bindParam(":password", $password);
+	$q->bindParam(":password", hash("sha256", $password . "@#$%"));
 	$q->execute();
 	$result = $q->fetchAll();
 	$this->logger->LogDebug("{$result}");

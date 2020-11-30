@@ -5,6 +5,7 @@ require_once 'Dao.php';
 require_once 'KLogger.php';
 $logger = new KLogger("log.txt", KLogger::DEBUG);
 
+
 //Add validation
 
 if(isset($_SESSION['errors'])){
@@ -13,7 +14,7 @@ if(isset($_SESSION['errors'])){
 
 $first = $_POST['firstName'];
 $last = $_POST['lastName'];
-if (!preg_match("/\w+/", $first) && !preg_match("/\w+/", $last)) {
+if (!preg_match("/\w+/", $first) || !preg_match("/\w+/", $last)) {
 	$logger->LogDebug("bad names");	
 	$_SESSION['errors'][] = "Invalid first or last name format";
 }
@@ -40,7 +41,7 @@ if(count($_SESSION['errors']) > 0){
 	$logger->LogDebug("failed validation");
 	$_SESSION['form'] = $_POST;
 	header("Location: newUser.php");
-	exit();
+	exit(3);
 }
 else{
 	$logger->LogDebug("proceeding to make user");
