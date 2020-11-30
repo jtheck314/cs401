@@ -110,7 +110,6 @@ ul > li#active {
 
 #login {
 	width: 500px;
-	height: 300px;
 	margin: 5px auto;
 	text-align: center;
 	background-color:#80D8EE;
@@ -183,6 +182,11 @@ form div {
 	display: none;
 }
 
+.badphp {
+	margin: 8px;
+	background-color: #B83A18;
+	border-radius: 15px;
+}
 .fadeout {
 	float: right;
 	padding-right: 15px;

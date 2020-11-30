@@ -12,11 +12,17 @@
    <input type="text" name="password" />
   </div>
   <input type="submit" value="Log In"/>
+<?php
+	if(isset($_SESSION['authenticated']) && !$_SESSION['authenticated']){
+		echo '<div class="badphp">Invalid email or password<span class="fadeout">X</span></div>';
+	}
+?>	       
  </form>
  <hr/>
  <div>
   <h3>New Users</h3>
   <a href="/newUser.php">Click here to create an account</a>
  </div>
+ <div class="clear"><br></div>
 </div>
 <?php require_once "footer.php"; ?>  

@@ -3,7 +3,11 @@ $(function() {
 		$(this).parent(".bad").fadeOut(500);
 	});
 });
-
+$(function() {
+	$(".fadeout").click(function () {
+		$(this).parent(".badphp").fadeOut(500);
+	});
+});
 $(function() {
 
 	$("#newUser.f").submit(function(e) {
