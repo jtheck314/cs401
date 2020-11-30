@@ -37,8 +37,8 @@ session_start();
     <li <?php if($pageName == "packages") { echo "id='active';";} ?>>
      <a href="/packages.php">Packages</a>
     </li>
-    <li <?php if($pageName == "calendar") { echo "id='active';";} ?>> 
-     <a href="/calendar.php">Calendar</a>
+    <li <?php if($pageName == "appointments") { echo "id='active';";} ?>> 
+     <a href="/appointments.php">Appointments</a>
     </li>
     <li <?php if($pageName == "login") { echo "id='active';";} ?> class="floatRight"> 
     <a href=

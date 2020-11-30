@@ -108,6 +108,19 @@ ul > li#active {
 	float: right;
 }
 
+#booking {
+	width: 750px;
+	margin: 5px auto;
+	text-align: center;
+	background-color:#80D8EE;
+	border-radius: 25px;
+}
+
+#booking p {
+	width: 500px;
+	margin: 5px auto;
+}
+
 #login {
 	width: 500px;
 	margin: 5px auto;
@@ -128,12 +141,6 @@ ul > li#active {
 
 form div {
 	margin: 15px;
-}
-
-.calendar img {
-	display: block;
-	width: 80%;
-	margin: 10 auto;
 }
 
 .galleryPreview {
@@ -190,4 +197,8 @@ form div {
 .fadeout {
 	float: right;
 	padding-right: 15px;
+}
+#message {
+	width:300px;
+	height:200px;
 }
