@@ -10,6 +10,7 @@ if(isset($_SESSION['form'])){
 	unset($_SESSION['form']);
 }
 ?>
+#blah
 <div id="newUser">
  <h1>New User Creation</h1>
  <form id="newUser" class="f">
